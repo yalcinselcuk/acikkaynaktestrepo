@@ -1,0 +1,7 @@
+isim = input('İsminizi Girin : ')
+print("Merhaba "+isim)
+
+sayi1 = input('1. Sayı : ')
+sayi2 = input('1. Sayı : ')
+toplam=float(sayi1)+float(sayi2)
+print("Toplam :{0} ".format(toplam))
